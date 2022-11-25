@@ -1,3 +1,6 @@
 # dataStructureLibrary
 
-This library permit to use some data structure to put on your code
+This library permit you to use some data structure
+
+- List
+- Stack
